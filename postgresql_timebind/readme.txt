@@ -1,0 +1,2 @@
+postgresql_timebind_get.py为get型注入
+postgresql_timebind_post为post型注入
